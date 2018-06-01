@@ -1,0 +1,47 @@
+INPUT1.TXT COSINE SIMILARITY
+I love baking cakes pies and cookies
+0.136	Today on the great british baking show we will be making swiss rolls
+0.333	These chocolate cakes and pies are simply divine
+0.167	You can never have too many cookies on hand
+0.246	TOTALLY TAKING OFF WORK TODAY TO DO SOME BAKING CAKES AHOY
+0.123	The secret ingredient in my chocolate pies are tofu which really ties the whole thing together
+
+
+INPUT2.TXT COSINE SIMILARITY
+Who's going to the movies this weekend
+0.000	Introducing people to the version of myself which tested highest in the focus groups
+0.000	Deadpool movie was amazing Love Ryan Reynolds
+0.000	Stop what you're doing and go see the Avengers movie
+0.000	TOTALLY TOOK OFF WORK TO GO SEE AVERGERS SO WORTH IT
+0.000	Looking forward to the new Han Solo movie
+0.000	These kitties are so adorable I can't even stand it
+0.000	Puppies and kitties make the world go round
+0.000	I recently bought the full James Bond Collectors Edition set and it was worth every moneypenny
+0.000	Is it possible to get enough fake butter on movie popcorn
+0.250	Seriously who goes to the movies any more what a ripoff
+
+Kitties are the best pets
+0.000	Introducing people to the version of myself which tested highest in the focus groups
+0.000	Deadpool movie was amazing Love Ryan Reynolds
+0.000	Stop what you're doing and go see the Avengers movie
+0.000	TOTALLY TOOK OFF WORK TO GO SEE AVERGERS SO WORTH IT
+0.000	Looking forward to the new Han Solo movie
+0.236	These kitties are so adorable I can't even stand it
+0.236	Puppies and kitties make the world go round
+0.000	I recently bought the full James Bond Collectors Edition set and it was worth every moneypenny
+0.000	Is it possible to get enough fake butter on movie popcorn
+0.000	Seriously who goes to the movies any more what a ripoff
+
+ALSO TOOK OFF WORK TO GO SEE DEADPOOL STILL WORTH IT
+0.000	Introducing people to the version of myself which tested highest in the focus groups
+0.123	Deadpool movie was amazing Love Ryan Reynolds
+0.270	Stop what you're doing and go see the Avengers movie
+0.727	TOTALLY TOOK OFF WORK TO GO SEE AVERGERS SO WORTH IT
+0.000	Looking forward to the new Han Solo movie
+0.000	These kitties are so adorable I can't even stand it
+0.123	Puppies and kitties make the world go round
+0.087	I recently bought the full James Bond Collectors Edition set and it was worth every moneypenny
+0.000	Is it possible to get enough fake butter on movie popcorn
+0.000	Seriously who goes to the movies any more what a ripoff
+
+
